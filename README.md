@@ -1,4 +1,4 @@
-# ReelFeel - Sentiment Analysis Application
+# MNIST Digit Classification - Deep Learning with Keras and TensorFlow 2.0
 
 This project implements a deep learning model to classify handwritten digits from the MNIST dataset using Keras and TensorFlow 2.0. The MNIST dataset contains 70,000 images of handwritten digits (0-9) and is a benchmark dataset for image classification tasks.
 
